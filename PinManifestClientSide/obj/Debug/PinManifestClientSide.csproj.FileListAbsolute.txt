@@ -1,0 +1,6 @@
+C:\Users\tthompso\documents\visual studio 2015\Projects\PinManifestClientSide\PinManifestClientSide\bin\PinManifestClientSide.dll.config
+C:\Users\tthompso\documents\visual studio 2015\Projects\PinManifestClientSide\PinManifestClientSide\bin\PinManifestClientSide.dll
+C:\Users\tthompso\documents\visual studio 2015\Projects\PinManifestClientSide\PinManifestClientSide\bin\PinManifestClientSide.pdb
+C:\Users\tthompso\documents\visual studio 2015\Projects\PinManifestClientSide\PinManifestClientSide\obj\Debug\PinManifestClientSide.csprojResolveAssemblyReference.cache
+C:\Users\tthompso\documents\visual studio 2015\Projects\PinManifestClientSide\PinManifestClientSide\obj\Debug\PinManifestClientSide.dll
+C:\Users\tthompso\documents\visual studio 2015\Projects\PinManifestClientSide\PinManifestClientSide\obj\Debug\PinManifestClientSide.pdb
